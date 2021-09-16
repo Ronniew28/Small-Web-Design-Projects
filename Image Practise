@@ -1,0 +1,45 @@
+<h1>Page Header Text</h1>
+<h3>Bikini Model</h3>
+
+
+<img src = https://live.staticflickr.com/8656/16491943896_99225fc07c_c.jpg" width = "500" height = "300">
+                                                                                                        
+<h4>Bikini Model by the Sea</h4>
+                                                                                                        
+<footer>
+<h1>Some footer placeholder text</h1>  
+</footer>
+
+
+body {
+  background-color: #3FBFBF;
+  background-image: url("https://live.staticflickr.com/276/32739797825_3e92cceac3_b.jpg");
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: yellow;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color: red;
+  border-width: 7px;
+}
+
+h4 {
+  text-align: center;
+  color: white;
+}
