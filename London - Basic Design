@@ -1,0 +1,20 @@
+<h2>London: A Picture Sample</h2>
+
+<img src="https://live.staticflickr.com/2778/5777943323_5614fa469f.jpg" alt="London" width="375" height="375">
+
+<script type = "text/javascript">
+    alert("Welcome to London!!");
+    //Creates a Javascript Pop-up
+  </script>
+
+
+body {
+  background-color: purple;
+  text-align: center;
+  color: #3F6CBF;
+  text-shadow: 2px 2px red;
+}
+
+img {
+  border-radius: 50%;
+}
